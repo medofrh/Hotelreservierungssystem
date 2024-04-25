@@ -1,0 +1,15 @@
+/Users/medo/RiderProjects/Hotelreservierungssystem/Hotelreservierungssystem/bin/Debug/net7.0/Hotelreservierungssystem
+/Users/medo/RiderProjects/Hotelreservierungssystem/Hotelreservierungssystem/bin/Debug/net7.0/Hotelreservierungssystem.deps.json
+/Users/medo/RiderProjects/Hotelreservierungssystem/Hotelreservierungssystem/bin/Debug/net7.0/Hotelreservierungssystem.runtimeconfig.json
+/Users/medo/RiderProjects/Hotelreservierungssystem/Hotelreservierungssystem/bin/Debug/net7.0/Hotelreservierungssystem.dll
+/Users/medo/RiderProjects/Hotelreservierungssystem/Hotelreservierungssystem/bin/Debug/net7.0/Hotelreservierungssystem.pdb
+/Users/medo/RiderProjects/Hotelreservierungssystem/Hotelreservierungssystem/obj/Debug/net7.0/Hotelreservierungssystem.csproj.AssemblyReference.cache
+/Users/medo/RiderProjects/Hotelreservierungssystem/Hotelreservierungssystem/obj/Debug/net7.0/Hotelreservierungssystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medo/RiderProjects/Hotelreservierungssystem/Hotelreservierungssystem/obj/Debug/net7.0/Hotelreservierungssystem.AssemblyInfoInputs.cache
+/Users/medo/RiderProjects/Hotelreservierungssystem/Hotelreservierungssystem/obj/Debug/net7.0/Hotelreservierungssystem.AssemblyInfo.cs
+/Users/medo/RiderProjects/Hotelreservierungssystem/Hotelreservierungssystem/obj/Debug/net7.0/Hotelreservierungssystem.csproj.CoreCompileInputs.cache
+/Users/medo/RiderProjects/Hotelreservierungssystem/Hotelreservierungssystem/obj/Debug/net7.0/Hotelreservierungssystem.dll
+/Users/medo/RiderProjects/Hotelreservierungssystem/Hotelreservierungssystem/obj/Debug/net7.0/refint/Hotelreservierungssystem.dll
+/Users/medo/RiderProjects/Hotelreservierungssystem/Hotelreservierungssystem/obj/Debug/net7.0/Hotelreservierungssystem.pdb
+/Users/medo/RiderProjects/Hotelreservierungssystem/Hotelreservierungssystem/obj/Debug/net7.0/Hotelreservierungssystem.genruntimeconfig.cache
+/Users/medo/RiderProjects/Hotelreservierungssystem/Hotelreservierungssystem/obj/Debug/net7.0/ref/Hotelreservierungssystem.dll
