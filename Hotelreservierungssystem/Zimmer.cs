@@ -11,6 +11,7 @@ public class Zimmer
         Doppelzimmer,
         Suite
     }
+    public ZimmerTyp Typ;
 
     public decimal PreisProNacht;
     public bool IstBelegt;
